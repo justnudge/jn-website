@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <link rel="shortcut icon" href="/assets/standalone-logo.ico" type="image/vnd.microsoft.icon" />
+        <link rel="icon" href="/assets/standalone-logo.ico" type="image/gif" />
+    </head>
+    <body>
+        <div id="wrap">
+            {% include header.html %}
+            <div class="container">
+                <div class="col-xs-12 col-sm-9">
+                    <div class="row row-offcanvas row-offcanvas-right">
+                        <h1>{{ page.title }}</h1>
+                        {{ content }}
+                    </div>
+                </div>
+                <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+                    {% include sidebar.html %}
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="container">
+                <p class="text-muted credit">Copyright &copy; 2010-2013 JustNudge Pty Ltd. <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Some rights reserved.</a></p>
+            </div>
+        </div>
+{% include googleanalytics.html %}
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+    </body>
+</html>
