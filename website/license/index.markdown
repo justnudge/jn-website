@@ -56,6 +56,6 @@ Modification. This is the entire agreement between the parties relating to the s
 
 ### 8. CONTACT INFORMATION.
 
-If you have any questions about this Agreement, or if you want to contact Just Nudge for any reason, please direct all correspondence to: admin@justnudge.com.
+If you have any questions about this Agreement, or if you want to contact Just Nudge for any reason, please direct all correspondence to: [admin@justnudge.com](mailto:admin@justnudge.com).
 
 August 21, 2011

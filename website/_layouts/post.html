@@ -3,13 +3,7 @@ layout: default
 ---
 
 <!-- Start of post.html -->
-<div class="panel panel-default">
-    <div class="panel-body">Tags: 
-    {% for tag in page.tags %}
-        <span class="label label-primary">{{ tag }}</span>
-    {% endfor %}
-    </div>
-</div>
+{% include taglist.html %}
 
 <p class="text-muted">{{ page.date | date_to_string }}</p>
 
