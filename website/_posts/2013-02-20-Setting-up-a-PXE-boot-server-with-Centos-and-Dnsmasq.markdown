@@ -2,6 +2,7 @@
 layout: post
 title: Setting up a PXE boot server with CentOS and DNSMasq
 tags: [pxe, dnsmasq, linux]
+permalink: /2013/02/setting-up-a-pxe-boot-server-with-centos-and-dnsmasq/
 ---
 I am building a lot of temporary hosts at the moment and being able to install them as quickly as possible is always good.  So I have decided to 
 install a PXE server that will allow my installations to install without human intervention.
