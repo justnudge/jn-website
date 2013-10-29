@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing IBM Endpoint Client on Linux
-tags: [iem, tem, ibm endpoint manager, linux]
+tags: [tivoli endpoint manager, ibm endpoint manager, linux]
 ---
 I have been investigating IBM End Point, which appears at first gance to be a fantasic tool.  The help for Linux clients appears to be a little
 light (or am I missing something?) but in order to install the End Point Client onto Linux you run the following commands:
