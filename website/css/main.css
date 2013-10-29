@@ -19,3 +19,8 @@ html, body { height: 100%; }
 }
 .container .credit { margin: 20px 0; }
 .logo { padding-bottom: 20px }
+.category-link a { text-decoration: none; color: white; }
+.category-link a:link { text-decoration: none; color: white; }
+.category-link a:visited { text-decoration: none; color: white; }
+.category-link a:active { text-decoration: none; color: white; }
+.category-link a:hover { text-decoration: none; color: white; }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are Enterprise IT systems fragile.
+title: Are Enterprise IT systems fragile?
 tags: [philosophy]
 ---
 I am currently reading a book called [Antifragile - Things that gain from disorder](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820) by Nassim Nicholas Taleb.

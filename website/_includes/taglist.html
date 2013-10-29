@@ -1,7 +1,7 @@
 <!-- Start of taglist.html -->
 <div class="well well-sm"> 
 {% for tag in post.tags %}
-    <span class="label label-primary">{{ tag }}</span>
+    <span class="label label-primary category-link"><a style="" href="/categories/{{ tag }}">{{ tag }}</a></span>
 {% endfor %}
 </div>
 <!-- End of taglist.html -->
