@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
 
 <div id="home">
@@ -12,6 +13,7 @@ layout: default
         </div>
         <small>{{ post.date | date: "%d-%b, %Y" }}</small>
         {{ post.content }}
+        <a href="{{ post.url }}#comments">Comments</a>
         <hr />
     {% endfor %}
 </div>
