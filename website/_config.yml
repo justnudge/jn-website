@@ -1,3 +1,4 @@
 name: JustNudge
-markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
