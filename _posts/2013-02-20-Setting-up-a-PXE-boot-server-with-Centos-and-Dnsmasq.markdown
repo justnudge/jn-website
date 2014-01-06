@@ -69,4 +69,5 @@ Where the PXE server is nas.justnudge.com with an IP address of 192.168.1.50.
 
 When started the VM will look like the following:
 
-![PXE boot screenshot]({{ site.url }}/assets/pxe.png)
+<img src="/assets/pxe.png" class="img-responsive" alt="PXE boot screenshot" />
+

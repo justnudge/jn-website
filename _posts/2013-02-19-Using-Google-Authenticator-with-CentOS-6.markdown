@@ -100,7 +100,7 @@ Open the authenticator application and click the Scan Barcode button and scan th
 
 You should then see the counter for the application.
 
-![Google Authenticator Counter]({{ site.url }}/assets/GoogleAuthenticator2.png)
+<img src="/assets/GoogleAuthenticator2.png" class="img-responsive" alt="Google Authenticator Counter" />
 
 #### Testing
 
@@ -112,4 +112,4 @@ Enter the users password.
 
 All being well you should be able to login as shown below:
 
-![Google Authenticator Putty]({{ site.url }}/assets/GoogleAuthenticatorPutty.png)
+<img src="/assets/GoogleAuthenticatorPutty.png" class="img-responsive" alt="Google Authenticator Putty" />

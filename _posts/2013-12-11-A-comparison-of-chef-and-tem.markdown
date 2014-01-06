@@ -76,7 +76,7 @@ run_list "recipe[jnrepositories]", "recipe[sshconfig]", "recipe[sshkeys]", "reci
 Consequently, the process in relation to chef is assigning your hosts to the various recipes and roles to which they are associated with.  This is done via the
 chef administration console:
 
-![Chef Server Screenshot]({{ site.url }}/assets/2013-12-11-ChefServer.png)
+<img src="/assets/2013-12-11-ChefServer.png" class="img-responsive" alt="Chef Server Screenshot" />
 
 #### Chef server push
 The reality is that there are sometimes when you want to push configurations from the central server.  I have worked out two methods to do this with the open
