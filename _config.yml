@@ -1,4 +1,4 @@
 name: JustNudge
-pygments: true
+highlighter: true
 safe: true
 lsi: false

@@ -5,8 +5,8 @@ layout: default
 <!-- Start of post.html -->
 {% include taglist.html %}
 
+<div class="text-muted">{{ page.date | date: "%d-%b, %Y" }}</div>
 <div class="post">
-    <small>{{ page.date | date: "%d-%b, %Y" }}</small>
     {{ content }}
     {% include discus.html %}
 </div>

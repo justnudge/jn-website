@@ -11,7 +11,7 @@ title: Home
             <span class="label label-primary category-link"><a style="" href="/categories/{{ tag }}">{{ tag }}</a></span>
         {% endfor %}
         </div>
-        <small>{{ post.date | date: "%d-%b, %Y" }}</small>
+        <div class="text-muted">{{ post.date | date: "%d-%b, %Y" }}</div>
         {{ post.content }}
         <a href="{{ post.url }}#comments">Comments</a>
         <hr />
