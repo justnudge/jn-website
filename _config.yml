@@ -2,3 +2,4 @@ name: JustNudge
 highlighter: true
 safe: true
 lsi: false
+markdown: kramdown
