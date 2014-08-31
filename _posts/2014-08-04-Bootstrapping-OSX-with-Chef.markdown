@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bootstrapping Windows with Chef
+title: Bootstrapping OSX with Chef
 tags: [chef]
 ---
 I have already moved much of my development infrastructure to Chef and thought
